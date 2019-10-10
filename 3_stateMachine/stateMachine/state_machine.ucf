@@ -1,0 +1,8 @@
+
+NET "ledOut[2]" LOC = P7;
+NET "ledOut[1]" LOC = M11;
+NET "ledOut[0]" LOC = M5;
+
+NET "rst" LOC = A7;
+NET "btn" LOC = M4;
+NET "clk" LOC = B8;
